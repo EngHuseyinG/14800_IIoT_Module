@@ -27,16 +27,16 @@ ModbusMaster node;
 
 ///////////////////////////////////////////////////////WiFi  identities////////////////////////////////////////////////////////////////////////////////////////////////
 
-const char*  ssid  = "ofis";
-const char* password = "kas*kkw-1970.";
+const char*  ssid  = "ssid";
+const char* password = "pw";
 unsigned long wifiledtimer;
 
 
 /////////////////////////////////////////////////////// Setup Firebase identities/////////////////////////////////////////////////////////////////////////////////
 
 
-#define API_KEY "AIzaSyDJbyKN_HLa4s__qa2-GS8tFjPOWBbyEc0"
-#define DATABASE_URL "https://kasiiot-default-rtdb.firebaseio.com/" 
+#define API_KEY "API_KEY"
+#define DATABASE_URL "RTDB" 
 #define USER_EMAIL "esp82661@gmail.com"
 #define USER_PASSWORD "esp82661"
 FirebaseData fbdo;
