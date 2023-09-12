@@ -1,0 +1,31 @@
+/*
+
+
+D120 = Test Sonucu var mı yok mu dinleme
+D121/D122 = Reçetede ki Urun Kodu
+D123 = Adlema Ön dolum Süresi
+D124 = Adlema Doldurma Süresi
+D125 = Adlema Stabilizasyon Süresi
+D126 = Adlema Ön Dolum Basıncı
+D127 = Test Basıncı 
+D128/D129 = Reçete Max Kaçak Değeri*100
+D130 = Adlema 1 Sonuc
+D131/ D132 = Adlema 1 Kaçan Değer
+D133 = Adlema 2 Sonuc
+D134/D135 = Adlema 2 Kaçan Değer
+D136 = Adlema 3 Sonuc
+D137/D138 = Adlema 3 Kaçan Değer
+D139 = Adlema 4 Sonuc 
+D140/D141 = Adlema 4 Kaçan Değer
+D142/D143 = Urun Boyu 
+D144 = Test Süresi 
+D145 =  Reçete Grup No
+D146/D147 = Reserv
+
+*/
+
+
+            
+162882
+
+c9103b
